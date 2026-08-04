@@ -2,7 +2,7 @@
 <h3 align="center">Java | Frontend Developer | DSA </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Java+;frontend+Developer;Always+Learning+New+Technologies&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Java;DSA;frontend+Developer;Always+Learning+New+Technologies&center=true&width=500&height=50">
 </p>
 
 ---
