@@ -72,37 +72,6 @@ Weather application built using React and Weather API.
 Arduino-based IoT project that automatically protects clothes from rain.
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ujwalakoralli&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujwalakoralli&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ujwalakoralli&theme=tokyonight">
-</p>
-
----
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ujwalakoralli&theme=tokyonight&column=4"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ujwalakoralli&theme=tokyo-night"/>
-</p>
-
 ---
 
 ## 🌐 Connect With Me
@@ -116,7 +85,7 @@ Arduino-based IoT project that automatically protects clothes from rain.
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:ujwalakoralli@gmailcom">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
