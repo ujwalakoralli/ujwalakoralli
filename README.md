@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ujwala Koralli</h1>
-<h3 align="center">Java Full Stack Developer | React Enthusiast | MERN Learner | ECE Graduate</h3>
+<h3 align="center">Java | Frontend Developer | DSA </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Java+Full+Stack+Developer;React+Developer;MERN+Stack+Learner;Always+Learning+New+Technologies&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Java+;frontebd+Developer;Always+Learning+New+Technologies&center=true&width=500&height=50">
 </p>
 
 ---
@@ -13,7 +13,7 @@
 - 💻 Passionate about Java Full Stack Development
 - 🌱 Currently learning **React, Spring Boot, Node.js, Express.js, MongoDB**
 - 🚀 Interested in Web Development and Software Engineering
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **ujwalkoralli@gmail.com**
 - ⚡ Fun Fact: I enjoy building real-world web applications.
 
 ---
@@ -81,7 +81,7 @@ Arduino-based IoT project that automatically protects clothes from rain.
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+<a href="https://www.linkedin.com/in/ujwala-koralli-2u78/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
