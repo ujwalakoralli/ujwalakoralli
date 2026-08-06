@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ujwala Koralli</h1>
-<h3 align="center">Java | Frontend Developer | DSA </h3>
+<h3 align="center">Java Full Stack | SQL | DSA | Frontend Developer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Java;DSA;frontend+Developer;Always+Learning+New+Technologies&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Java+Full+Stack;SQL;DSA;frontend+Developer;Always+Learning+New+Technologies&center=true&width=500&height=50">
 </p>
 
 ---
